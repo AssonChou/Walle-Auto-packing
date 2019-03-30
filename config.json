@@ -1,0 +1,12 @@
+{
+  "is_zipalign": true,
+  "is_multi_pack": true,
+  "app_name": "xxx1.0.0",
+  "is_sign": true,
+  "after_apk_path": "xxx\\xxx\\xxx\\1.0.0",
+  "build_tools_path": "xxx\\xxx\\xxx\\sdk\\build-tools\\28.0.3",
+  "pre_apk_path": "xxx\\xxx\\xxx.apk",
+  "password": "111111",
+  "is_check_sign": true,
+  "keystore_path": "xxx\\xxx\\xxx.jks"
+}
