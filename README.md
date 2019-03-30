@@ -1,6 +1,6 @@
 # Walle-Auto-packing
 
-具体功能：
+使用：
 
 （1）Build Tools Path：build-tools版本路径，主要是为了获取该目录下的zipalign和apksigner工具
 
@@ -25,3 +25,6 @@
 （11）Generate：生成
 
 （12）Save Config：保存配置
+
+
+
